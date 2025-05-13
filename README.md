@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Divyadeep</h1>
-<h3 align="center">A passionate frontend and embedded systems developer from India</h3>
+<h3 align="center">A passionate frontend and embedded systems developer.</h3>
 
 - 🔭 I’m currently working on **GuardianBox – A smart passenger safety system**
 - 🌱 I’m currently learning **DevOps, AI models (YOLO, Whisper), and React**
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/your-username)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/d1vyadeep)
 - 💬 Ask me about **Web Development, IoT Projects, Kotlin, Firebase, or C++**
-- 📫 How to reach me: **divyadeep@example.com**
+- 📫 How to reach me: **ddsfury@protonmail.com**
 - ⚡ Fun fact: I combine hardware and software to build impactful solutions 🚀
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:your-email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-  <!-- Add more as needed -->
+  <a href="[[(https://www.linkedin.com/in/divyadeepsingh/)]]" target="(https://www.linkedin.com/in/divyadeepsingh/)"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:ddsfury@protonmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+
 </p>
 
 ---
@@ -43,6 +43,6 @@
 
 ### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1vyadeep&layout=compact&theme=radical" alt="Top Languages" />
 </p>
