@@ -11,7 +11,7 @@
 ---
 
 ### 🌐 Connect with me:
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/divyadeepsingh/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
